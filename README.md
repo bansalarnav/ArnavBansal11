@@ -1,3 +1,5 @@
+![] https://media.giphy.com/media/xUyrMCdgrOL3ntbTvK/giphy.gif
+
 # Hey!
 
 ### I am Arnav Bansal, a fellow developer here at eSpice, the technical club of DPS Noida!
@@ -15,6 +17,12 @@ I primarily do App Development but i also like to meddle in Web Development. Som
  - [x] Code
  - [ ] Attend Classes
  - [x] Learn new things
+ 
+ I love to also do collaborative projects. Wanna collaborate with me on any project? Send an email to **arnavbansal101@gmail.com** and I will surely reply
+ 
+ Cya at the next competition! (Or if you shoot an invite for a project on my email, we meet earlier. You know....)
+ 
+ 
 
 <!--
 **tperm94/tperm94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
