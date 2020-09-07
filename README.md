@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hey!
 
 ### I am Arnav Bansal, a fellow developer here at eSpice, the technical club of DPS Noida!
 
