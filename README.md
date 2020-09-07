@@ -22,7 +22,7 @@ I primarily do App Development but i also like to meddle in Web Development. Som
  
  ![](https://github.com/ParthSethiTech/ParthSethiTech/blob/master/wave.gif)
  
- #FlutterPro
+ # #FlutterPro
 
 <!--
 **tperm94/tperm94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
