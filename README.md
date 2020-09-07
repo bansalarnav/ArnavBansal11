@@ -20,8 +20,9 @@ I primarily do App Development but i also like to meddle in Web Development. Som
  
  I love to also do collaborative projects. Wanna collaborate with me on any project? Send an email to **arnavbansal101@gmail.com** and I will surely reply
  
- Cya at the next competition! (Or if you shoot an invite for a project on my email, we meet earlier. You know....)
+ Cya at the next competition! (Or if you shoot an invite for a project on my email, we may meet earlier. You know....)
  
+ ![](https://media.giphy.com/media/xT39DoCQMa5mEdQ3w4/giphy.gif)
  
 
 <!--
