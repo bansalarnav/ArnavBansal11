@@ -22,7 +22,7 @@ I primarily do App Development but i also like to meddle in Web Development. Som
  
  Cya at the next competition! (Or if you shoot an invite for a project on my email, we may meet earlier. You know....)
  
- ![](https://tenor.com/TS3c.gif )
+ ![](https://tenor.com/TS3c.gif)
  
 
 <!--
