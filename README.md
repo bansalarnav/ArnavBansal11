@@ -9,6 +9,12 @@ I primarily do App Development but i also like to meddle in Web Development. Som
 - ExpressJS
 - NodeJS and
 - MongoDB
+ 
+ ##### I ......
+ 
+ - [x] Code
+ - [ ] Attend Classes
+ - [x] Learn new things
 
 <!--
 **tperm94/tperm94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
