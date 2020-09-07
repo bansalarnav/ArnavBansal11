@@ -6,16 +6,12 @@
 
 I primarily do App Development but i also like to meddle in Web Development. Some of my primary skills include -
 
-- Flutter
-- React.js
-- ExpressJS
-- NodeJS and
-- MongoDB
+![](https://camo.githubusercontent.com/3f5a17ab56610b19378b1c3fcc589c330e4c7bec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562)
  
  ##### I Like to ......
  
  - [x] Code
- - [ ] Attend Classes
+ - [ ] Attend Classes)
  - [x] Learn new things
  
  I love to also do collaborative projects. Wanna collaborate with me on any project? Send an email to **arnavbansal101@gmail.com** and I will surely reply
