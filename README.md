@@ -10,7 +10,7 @@ I primarily do App Development but i also like to meddle in Web Development. Som
 - NodeJS and
 - MongoDB
  
- ##### I ......
+ ##### I Like to ......
  
  - [x] Code
  - [ ] Attend Classes
