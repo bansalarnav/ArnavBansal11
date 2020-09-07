@@ -1,4 +1,3 @@
-![](https://media.giphy.com/media/xUyrMCdgrOL3ntbTvK/giphy.gif)
 
 # Hey!
 
@@ -18,7 +17,6 @@ I primarily do App Development but i also like to meddle in Web Development. Som
  - [ ] Attend Classes)
  - [x] Learn new things
  
- [![Arnav's github stats](https://github-readme-stats.vercel.app/api?username=tperm94&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
  
  I love to also do collaborative projects. Wanna collaborate with me on any project? Send an email to **arnavbansal101@gmail.com** and I will surely reply
  
@@ -28,6 +26,8 @@ I primarily do App Development but i also like to meddle in Web Development. Som
  
  # #FlutterPro
 
+
+ [![Arnav's github stats](https://github-readme-stats.vercel.app/api?username=tperm94&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **tperm94/tperm94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
