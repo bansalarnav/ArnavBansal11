@@ -21,7 +21,7 @@ I primarily do App Development but i also like to meddle in Web Development. Som
  
  [![Arnav's github stats](https://github-readme-stats.vercel.app/api?username=tperm94&theme=radical)](https://github.com/tperm94/github-readme-stats)
  
- I love to also do collaborative projects. Wanna collaborate with me on any project? Send an email to **arnavbansal101@gmail.com** and I will surely reply
+ I also love to do collaborative projects. Wanna collaborate with me on any project? Send an email to **arnavbansal101@gmail.com** and I will surely reply
  
  Cya at the next competition! (Or if you shoot an invite for a project on my email, we may meet earlier. You know....)
  
