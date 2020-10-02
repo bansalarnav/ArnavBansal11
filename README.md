@@ -1,7 +1,7 @@
 
 # Hey!
 
-### I am Arnav Bansal, a fellow developer here at eSpice, the technical club of DPS Noida!
+### I am Arnav Bansal, a fellow developer here at eSpice, the tech club of DPS Noida!
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 
