@@ -26,8 +26,7 @@ I primarily do App Development but i also like to meddle in Web Development. Som
  Cya at the next competition! (Or if you shoot an invite for a project on my email, we may meet earlier. You know....)
  
  ![](https://github.com/ParthSethiTech/ParthSethiTech/blob/master/wave.gif)
- 
- # #FlutterPro
+
 <!--
 **tperm94/tperm94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
