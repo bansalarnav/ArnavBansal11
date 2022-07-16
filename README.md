@@ -17,6 +17,7 @@ I primarily do App Development but i also like to meddle in Web Development. Som
  - [x] Code
  - [x] Learn new things
  - [x] Solve Problems
+ - [x] Cube 
  
  
  [![Arnav's github stats](https://github-readme-stats.vercel.app/api?username=ArnavBansal11&theme=radical)](https://github.com/tperm94/github-readme-stats)
