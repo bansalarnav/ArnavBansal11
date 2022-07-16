@@ -15,7 +15,7 @@ I primarily do App Development but i also like to meddle in Web Development. Som
  ##### I Like to ......
  
  - [x] Code
- - [ ] Attend Classes)
+ - [ ] Attend Classes
  - [x] Learn new things
  
  
